@@ -1,0 +1,74 @@
+aid: ghost-robotics
+name: Ghost Robotics
+description: >-
+  Ghost Robotics designs and manufactures quadrupedal unmanned ground vehicles
+  (Q-UGV), with its flagship Vision 60 platform deployed across defense,
+  public safety, law enforcement, industrial, construction, and education
+  customers. The platform supports modular payloads for sensing, comms, and
+  manipulation. Ghost Robotics provides a developer SDK only to vetted
+  partners and integrators and does not operate a public developer portal,
+  open API, or public GitHub organization.
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Defense
+  - Hardware
+  - Industrial
+  - Law Enforcement
+  - Public Safety
+  - Q-UGV
+  - Quadrupedal Robots
+  - Robotics
+  - Unmanned Ground Vehicles
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ghost-robotics/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.ghostrobotics.io/
+  - type: ProductPage
+    url: https://www.ghostrobotics.io/vision-60
+  - type: Defense
+    url: https://www.ghostrobotics.io/defense
+  - type: Commercial
+    url: https://www.ghostrobotics.io/commercial
+  - type: MilitaryApplications
+    url: https://www.ghostrobotics.io/military-applications
+  - type: PublicSafety
+    url: https://www.ghostrobotics.io/public-safety
+  - type: LawEnforcement
+    url: https://www.ghostrobotics.io/law-enforcement
+  - type: IndustrialApplications
+    url: https://www.ghostrobotics.io/industrial-applications
+  - type: ConstructionApplications
+    url: https://www.ghostrobotics.io/construction-applications
+  - type: Education
+    url: https://www.ghostrobotics.io/education
+  - type: Enterprise
+    url: https://www.ghostrobotics.io/enterprise
+  - type: CaseStudies
+    url: https://www.ghostrobotics.io/case-studies
+  - type: News
+    url: https://www.ghostrobotics.io/news
+  - type: Events
+    url: https://www.ghostrobotics.io/events
+  - type: AboutUs
+    url: https://www.ghostrobotics.io/about-us
+  - type: Philosophy
+    url: https://www.ghostrobotics.io/our-philosophy
+  - type: Careers
+    url: https://www.ghostrobotics.io/careers
+  - type: ContactUs
+    url: https://www.ghostrobotics.io/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ghost-robotics/
+  - type: Twitter
+    url: https://twitter.com/Ghost_Robotics
+  - type: YouTube
+    url: https://www.youtube.com/c/GhostRobotics
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
