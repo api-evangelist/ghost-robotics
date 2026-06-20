@@ -9,7 +9,7 @@ description: >-
   partners and integrators and does not operate a public developer portal,
   open API, or public GitHub organization.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Defense
   - Hardware
